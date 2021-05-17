@@ -87,11 +87,11 @@ h2{
   margin-bottom: 20px;
 }
 h3{
-  color: #0d0d0d;font-size:21px;line-height: 36px;font-weight: normal;font-family: 'Hiragino sans W3';
+  color: #0d0d0d;font-size:21px;line-height: 36px;font-weight: normal;font-family: 'Hiragino sans W3'; font-weight: 300;
   margin-bottom: 20px;
 }
 p{
-  color: #212121;font-size: 17px;line-height: 2.0;font-weight: normal; font-family: 'Hiragino sans W3';
+  color: #212121;font-size: 17px;line-height: 2.0;font-weight: normal; font-family: 'Hiragino sans W3'; font-weight: 300;
   margin-bottom: 20px;
 }
 @media(max-width:872px;min-width:768px){
@@ -128,12 +128,14 @@ p{
     font-size: 18px;
     line-height: 29px;
     font-family: 'Hiragino sans W3';
+    font-weight: 300;
     margin-bottom: 12px;
   }
   p{
     font-size:15px;
     line-height:2.0;
     font-family: 'Hiragino sans W3';
+    font-weight: 300;
     margin-bottom: 12px;
   }
   .title{
