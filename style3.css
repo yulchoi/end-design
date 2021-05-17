@@ -95,7 +95,7 @@ p{
   color: #212121;font-size: 16px;line-height: 2.0;font-weight: normal; font-family: 'Hiragino sans W3'; font-weight: 300;
   margin-bottom: 18px;
 }
-@media(max-width:832px;min-width:768px){
+@media screen and (max-width:872px) and (min-width:768px){
   .title{
     max-width: 640px;
     margin-left: 96px;
@@ -112,7 +112,7 @@ p{
     margin-right: 96px;
   }
 }
-@media(max-width:767px){
+@media screen and (max-width:767px){
   h1{
     font-size:30px;
     line-height: 1.4;

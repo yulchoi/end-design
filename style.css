@@ -96,7 +96,7 @@ p{
   margin-bottom: 20px;
 }
 
-@media(max-width:872px;min-width:768px){
+@media screen and (max-width:872px) and (min-width:768px){
   .title{
     max-width: 680px;
     margin-left: 96px;
@@ -113,7 +113,7 @@ p{
     margin-right: 96px;
   }
 }
-@media(max-width:767px){
+@media screen and (max-width:767px){
   h1{
     font-size:30px;
     line-height: 1.4;

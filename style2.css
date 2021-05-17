@@ -76,8 +76,7 @@ body{
   max-width:680px;
   display: block;
   margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 40px;
+  margin-right: auto; margin-bottom: 40px;
 }
 h1{
   color:#0d0d0d;font-size:38px;line-height: 1.5; font-family: 'Hiragino sans W7';
@@ -95,7 +94,7 @@ p{
   color: #212121;font-size: 18px;line-height: 2.0;font-weight: normal; font-family: 'Hiragino sans W3'; font-weight: 300;
   margin-bottom: 20px;
 }
-@media(max-width:872px;min-width:768px){
+@media screen and (max-width:872px) and (min-width:768px){
   .title{
     max-width: 680px;
     margin-left: 96px;
@@ -112,7 +111,7 @@ p{
     margin-right: 96px;
   }
 }
-@media(max-width:767px){
+@media screen and (max-width:767px){
   h1{
     font-size:30px;
     line-height: 1.4;
