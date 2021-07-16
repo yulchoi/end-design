@@ -80,19 +80,19 @@ body{
   margin-right: auto;
 }
 h1{
-  color:#0d0d0d;font-size:38px;line-height: 1.5; font-family: 'Hiragino sans W7';
+  color:#0d0d0d;font-size:40px;line-height: 1.5; font-family: 'Hiragino sans W7';
   margin-bottom: 20px;
 }
 h2{
-  color:#0d0d0d;font-size:28px;line-height: 1.5;font-family: 'Hiragino sans W7';
+  color:#0d0d0d;font-size:27px;line-height: 1.5;font-family: 'Hiragino sans W7';
   margin-bottom: 20px;
 }
 h3{
-  color: #0d0d0d;font-size:21px;line-height: 36px;font-weight: normal;font-family: 'Hiragino sans'; font-weight: 300;
+  color: #0d0d0d;font-size:22px;line-height: 36px;font-weight: normal;font-family: 'Hiragino sans'; font-weight: 300;
   margin-bottom: 20px;
 }
 p{
-  color: #212121;font-size: 17px;line-height: 2.0;font-weight: normal; font-family: 'Hiragino sans'; font-weight: 300;
+  color: #212121;font-size: 15px;line-height: 2.0;font-weight: normal; font-family: 'Hiragino sans'; font-weight: 300;
   margin-bottom: 20px;
 }
 
